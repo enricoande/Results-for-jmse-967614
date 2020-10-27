@@ -6,6 +6,8 @@ E Anderlini, S Hussain, GG Parker, M Abusara, and G Thomas, "Towards Real-Time R
 
 The files are in .csv format. 
 
+In the file name, it is possible to read the significant wave height in metres and the modal/peak wave energy period in seconds.
+
 Each time series file the following columns:
 1. Time [s],
 2. Wave elevation [m],
